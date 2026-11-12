@@ -1,0 +1,3 @@
+# Product pitch (100 words)
+
+Most watchlists dump a wall of red and green and leave you to find what matters. **Smart Market Watchlist** decides for you: it surfaces what *meaningfully* changed since you last looked. "Meaningful" isn't a flat percentage — each move is scored against that stock's *own* volatility, so the same 1% move that's major for a calm large-cap stays quiet for a jumpy small-cap. A pluggable feed handles stale, delayed and conflicting data honestly; an append-only, hash-chained log makes "while you were away" tamper-evident. Built end-to-end with FastAPI and Next.js, it treats a watchlist as a decision problem, not a display.
